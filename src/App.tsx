@@ -85,7 +85,7 @@ const App = () => {
        flex-col gap-10 text-3xl font-semibold"
     >
       <h1 className="text-zinc-900 text-3xl">
-        <span className="text-[#0075ff]">Random</span> Password Generator
+        <span className="text-[#0075ff]">Random</span> Password Generatorr
       </h1>
       <div className="w-96 flex flex-col gap-3">
         <div className="flex-justify-between bg-white p-5 shadow-card rounded-md">
